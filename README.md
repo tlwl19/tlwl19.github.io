@@ -1,1 +1,1 @@
-# huatsclub
+Welcome to HUATS CLUB!
