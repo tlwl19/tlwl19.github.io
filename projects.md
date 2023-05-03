@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Projects"
+title: Projects
 ---
 
-# Recent Works
+## Recent Works
 This is where all the projects done by the students/huats will be showcase here!
 Insert some pics 
 
-# Past Works
+## Past Works
