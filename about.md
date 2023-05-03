@@ -3,13 +3,17 @@ layout: page
 title: About Us
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+## WHO ARE WE
 
-Reasons:
- - Its great
- - Its a test
+Founded by 3 passionate tech practitoners <br>
+**Revitalizing** STEAM Education | **Reigniting** Engineering interest
 
-## Other thoughts
+<!-- Insert all Huats member pic -->
+<br>
 
-This is great.
+## WHAT WE DO
+HUATS stands for Human Upgrading Around Technical Skills
+<br>
+We also HUATS in Education, **fostering** Technical Skills through **Project Based Learning** as a **Community**.
+
+<!-- Insert Huats in Education pics -->
